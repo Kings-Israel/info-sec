@@ -1,0 +1,37 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright No copyright information found.
+FontName Korolev-Medium_1c
+FontSubfamily Roman
+UniqueID JPedal PDF2HTML Korolev-Medium_1c
+FullName Korolev-Medium_1c
+Version Version 1.0
+PostScriptName Korolev-Medium_1c
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 54
+UnderlinePosition -125
+FontHeightOffset 0
+Ascender 800
+Descender -200
+FontBBox -57 -280 1560 984
+StartCharMetrics 15
+U 32 ; WX 220 ; N uni0020 ; G 1
+U 65 ; WX 586 ; N uni0041 ; G 2
+U 67 ; WX 571 ; N uni0043 ; G 3
+U 68 ; WX 592 ; N uni0044 ; G 4
+U 69 ; WX 517 ; N uni0045 ; G 5
+U 71 ; WX 580 ; N uni0047 ; G 6
+U 72 ; WX 605 ; N uni0048 ; G 7
+U 73 ; WX 248 ; N uni0049 ; G 8
+U 77 ; WX 735 ; N uni004d ; G 9
+U 79 ; WX 581 ; N uni004f ; G 10
+U 82 ; WX 563 ; N uni0052 ; G 11
+U 84 ; WX 499 ; N uni0054 ; G 12
+U 85 ; WX 601 ; N uni0055 ; G 13
+U 89 ; WX 568 ; N uni0059 ; G 14
+EndCharMetrics
+EndFontMetrics

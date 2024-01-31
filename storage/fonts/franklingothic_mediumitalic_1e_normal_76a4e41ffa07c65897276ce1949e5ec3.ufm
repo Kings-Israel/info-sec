@@ -1,0 +1,35 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright  ITC Franklin Gothic is a trademark of The International Typeface Corporation which may be registered in certain jurisdictions. Portions copyright Microsoft Corporation.  All rights reserved.
+UniqueID VBOYCR+FranklinGothic-MediumItalic
+FullName VBOYCR+FranklinGothic-MediumItalic
+PostScriptName VBOYCR+FranklinGothic-MediumItalic
+Trademark ITC Franklin Gothic is a trademark of The International Typeface Corporation which may be registered in certain jurisdictions.
+FontName VBOYCR+FranklinGothic-MediumItalic
+FontSubfamily Regular
+Weight Medium
+ItalicAngle -9.4991
+IsFixedPitch false
+UnderlineThickness 50
+UnderlinePosition -75
+FontHeightOffset 0
+Ascender 800
+Descender -200
+FontBBox -160 -307 1047 951
+StartCharMetrics 660
+U 32 ; WX 250 ; N uni0020 ; G 3
+U 69 ; WX 537 ; N uni0045 ; G 40
+U 79 ; WX 646 ; N uni004f ; G 50
+U 97 ; WX 536 ; N uni0061 ; G 68
+U 101 ; WX 521 ; N uni0065 ; G 72
+U 103 ; WX 507 ; N uni0067 ; G 74
+U 105 ; WX 248 ; N uni0069 ; G 76
+U 110 ; WX 537 ; N uni006e ; G 81
+U 114 ; WX 347 ; N uni0072 ; G 85
+U 116 ; WX 321 ; N uni0074 ; G 87
+U 118 ; WX 447 ; N uni0076 ; G 89
+U 122 ; WX 421 ; N uni007a ; G 93
+EndCharMetrics
+EndFontMetrics

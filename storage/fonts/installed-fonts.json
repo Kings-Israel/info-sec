@@ -1,0 +1,12 @@
+{
+    "korolev medium": {
+        "normal": "korolev_medium_normal_892e8d70f8c020a3d3c4ccc97fb891fa"
+    },
+    "franklingothic-book_16": {
+        "normal": "franklingothic_book_16_normal_8f47019e1a6e5258a6798c8eea96277b"
+    },
+    "franklingothic-mediumitalic_1e": {
+        "600": "C:\\xampp\\htdocs\\projects\\laravel\\event-register\\storage\\fonts\/franklingothic_mediumitalic_1e_600_76a4e41ffa07c65897276ce1949e5ec3",
+        "normal": "franklingothic_mediumitalic_1e_normal_76a4e41ffa07c65897276ce1949e5ec3"
+    }
+}
